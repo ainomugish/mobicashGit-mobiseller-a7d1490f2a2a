@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/study material/androidprojects/Bitbucket projects/mobicashGit-mobiseller/mobicashGit-mobiseller-ce7a5702b690/Mobiseller.iml" filepath="D:/study material/androidprojects/Bitbucket projects/mobicashGit-mobiseller/mobicashGit-mobiseller-ce7a5702b690/Mobiseller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mobicashGit-mobiseller-a7d1490f2a2a.iml" filepath="$PROJECT_DIR$/mobicashGit-mobiseller-a7d1490f2a2a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mobicashGit-mobiseller-ce7a5702b690.iml" filepath="$PROJECT_DIR$/mobicashGit-mobiseller-ce7a5702b690.iml" />
+    </modules>
+  </component>
+</project>
